@@ -1,0 +1,21 @@
+{
+  "short_name": "Training AI",
+  "name": "Training AI Assistant",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/lucide:bot.svg?color=%2300f2ff",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://api.iconify.design/lucide:bot.svg?color=%2300f2ff",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}

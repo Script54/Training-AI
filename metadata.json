@@ -1,0 +1,7 @@
+{
+  "name": "SmartCore Fit",
+  "description": "Next-gen smart apparel interface with AI coaching and biometric sensor fusion visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
